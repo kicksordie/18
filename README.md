@@ -1,5 +1,5 @@
-# rmp-aui
-👀 ez'A
+
+# 👀 ez'A
 
 Creating a review web app in which students will be able to find and rate professors. 
 
